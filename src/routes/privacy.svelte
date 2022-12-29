@@ -77,9 +77,9 @@
 		</li>
 		<li>
 			<p>
-				<strong>Website</strong> refers to RBay, accessible from
-				<a href="https://redis-rbay.com" rel="external nofollow noopener" target="_blank"
-					>https://redis-rbay.com</a
+				<strong>Website</strong> refers to Catbuy, accessible from
+				<a href="https://redis-catbuy.com" rel="external nofollow noopener" target="_blank"
+					>https://redis-catbuy.com</a
 				>
 			</p>
 		</li>
@@ -401,9 +401,9 @@
 	<ul>
 		<li>
 			By visiting this page on our website: <a
-				href="https://redis-rbay.com"
+				href="https://redis-catbuy.com"
 				rel="external nofollow noopener"
-				target="_blank">https://redis-rbay.com</a
+				target="_blank">https://redis-catbuy.com</a
 			>
 		</li>
 	</ul>
